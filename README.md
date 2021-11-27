@@ -3,4 +3,4 @@ The main goal of this repository is to show you how we can deal with a PIC16F887
 
 <img src='Enjoy.png'>
 
-Ultimately, I hope you enjoy this work and get the pleasure from it and and I remain at your entire disposal, just contact me at my personal Gmail hamzataous847@gmail.com if you have any questions or if you need any kind of assistance.
+Ultimately, I hope you enjoy this work and get the pleasure from it and I remain at your entire disposal, just contact me at my personal Gmail hamzataous847@gmail.com if you have any questions or if you need any kind of assistance.
