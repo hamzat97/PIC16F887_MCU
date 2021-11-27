@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo1 -N"C:\Users\TAOUS\Desktop\PIC16F887\ADC\Project9.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\TAOUS\Desktop\PIC16F887\ADC\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Project9.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Project9.c
+diagnostics: 20	123	Compiled Successfully	Project9.c
+diagnostics: 0	127	All files Compiled in 31 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 31 (1%)  Free ROM (program words): 8161 (99%)	Used ROM (program words): 31 (1%)  Free ROM (program words): 8161 (99%)
+diagnostics: 0	125	Project Linked Successfully	Project9.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'Project9.mcppi' completed: 78 ms	 
+diagnostics: 0	103	Finished successfully: 27 nov. 2021, 17:36:18	Project9.mcppi
