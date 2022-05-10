@@ -1,5 +1,6 @@
 void main() {
  ANSEL = ANSELH = 0;
+ TRISA = 0x01;
  TRISC = 0x00;
  TRISD = 0x00;
  PORTC = 0x00;
